@@ -1,3 +1,3 @@
 # tbot
 
-# MTO is a script that combines multiple text files into one
+ MTO is a script that combines multiple text files into one
